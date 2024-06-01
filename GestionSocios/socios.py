@@ -69,3 +69,5 @@ if __name__ == "__main__":
 
     # Listar socios después de las bajas
     biblioteca.listar_socios()
+
+    #Agrego esta linea para finalizar el issue
