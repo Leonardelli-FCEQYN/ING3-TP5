@@ -38,3 +38,5 @@ if __name__ == "__main__":
 
     # Verificar notificaciones
     usuario.verificar_notificaciones()
+
+    # Agrego esta linea para cerrar el issue.
